@@ -1,9 +1,13 @@
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff99cc,50:ff66b2,100:ffffff&height=100&section=header&text=Hello!&fontColor=ffffff"/>
 </p>
 
 <h1 align="center" style="color:#ff66b2">
-  Hey, I'm Omkar Kardile 🌸
+      नमस्ते (Namaste), I am       
+  <a href="https://omkardile.framer.site/"> Omkar Kardile </a>
+ 🌸
 </h1>
 
 ---
@@ -44,7 +48,9 @@ hobbies: ["Designing", "Video Editing", "Exploring Tech Trends", "Anime/Manga","
 </p>
 
 ---
+[![Gmail Badge](https://img.shields.io/badge/-omkarkardileatwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omkarkardileatwork@gmail.com)](mailto:omkarkardileatwork@gmail.com)
 
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff99cc,50:ff66b2,100:ffffff&height=100&section=footer"/>
 </p>
