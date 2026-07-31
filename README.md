@@ -1,93 +1,74 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff99cc,50:ff66b2,100:ffffff&height=100&section=header&text=!Konnichiwa&fontColor=ffffff"/>
-</p>
+<div align="center">
 
-<h1 align="center">
-  नमस्ते (Namaste), I am
-  <a href="https://omkardile.is-a.dev">omik // whysoserious</a>
-  🌸
-</h1>
+# OMKAR KARDILE 🌸
 
-<p align="center">
-  <b>Software Engineer</b><br>
-  Engineering // Design
-</p>
+### SOFTWARE ENGINEER
+
+Engineering // Design
+
+<br>
+
+> **「Building products one panel at a time.」**
+
+</div>
 
 ---
 
-<h2 align="center">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
- A Little Bit About Me
-</h2>
+# ▌CHAPTER 01 — ABOUT
+
+> 💬 "Hi."
 
 ```yaml
 name: Omkar Kardile
-alias: Omik // WhySoSerious
+
+aka: Omik // WhySoSerious
 
 location: Pune, India
+
 role: Software Engineer
 
 education:
-  [
-    "C-DAC PG-DMC",
-    "B.Tech Computer Engineering",
-  ]
+  - C-DAC PG-DMC
+  - B.Tech Computer Engineering
 
-currently:
-  [
-    "Tech // Site",
-    "Volmier",
-    "EchoPulse",
-    "Stario",
-  ]
-
-interests:
-  [
-    "Software Engineering",
-    "Product Design",
-    "Web & Mobile",
-  ]
-
-philosophy:
-  "Engineering // Design • Build with passion."
+currently_building:
+  - Tech // Site
+  - Volmier
+  - EchoPulse
+  - Stario
 ```
 
----
+<div align="right">
 
-<h2 align="center">⚒️ Tech Stack</h2>
+*"Every project starts with a single panel."*
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,mysql,tailwind,js,ts,java,python,git,github,docker,linux,figma,vscode,androidstudio&perline=9"/>
-</p>
+</div>
 
 ---
 
-<h2 align="center">Connect</h2>
+# ▌CHAPTER 02 — CURRENT ARC
 
-<table align="center">
+<table>
+
 <tr>
 
-<td align="center" width="180">
+<td width="50%">
 
-### 🌐
+## TECH // SITE
 
-**Portfolio**
+Technology publication.
 
-<a href="https://omkardile.is-a.dev">
-omkardile.is-a.dev
-</a>
+Building a modern destination for software, hardware and design.
 
 </td>
 
-<td align="center" width="180">
+<td width="50%">
 
-### 💻
+## VOLMIER
 
-**GitHub**
+Digital product studio.
 
-<a href="https://github.com/OmKardile">
-@OmKardile
-</a>
+Minimal software with strong identity.
 
 </td>
 
@@ -95,35 +76,94 @@ omkardile.is-a.dev
 
 <tr>
 
-<td align="center">
+<td>
 
-### ✉️
+## ECHOPULSE
 
-**Email**
+Cross-device listening presence.
 
-<a href="mailto:omkarkardileatwork@gmail.com">
-Say Hello
-</a>
+Music everywhere.
 
 </td>
 
-<td align="center">
+<td>
 
-### 🔗
+## STARIO
 
-**Links**
+Launcher experiments.
 
-<a href="https://mylinks.omik.deno.net">
-Everything Else
-</a>
+Interaction-first Android experiences.
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff99cc,50:ff66b2,100:ffffff&height=100&section=footer"/>
-</p>
+# ▌CHAPTER 03 — TOOLBOX
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,postgres,mysql,java,js,ts,docker,git,linux,figma&perline=7"/>
+
+</div>
+
+---
+
+# ▌CHAPTER 04 — SIDE QUESTS
+
+```
+███████████████████████████████████
+
+□ Software Engineering
+
+□ UI / UX
+
+□ Mobile Apps
+
+□ Product Design
+
+□ Open Source
+
+███████████████████████████████████
+```
+
+---
+
+# ▌CHAPTER 05 — FIND ME
+
+> 💬 "Let's build something cool."
+
+<div align="center">
+
+| 🌐 | Portfolio |
+|:--:|-----------|
+| → | https://omkardile.is-a.dev |
+
+| 🔗 | My Links |
+|:--:|-----------|
+| → | https://mylinks-omkardile.vercel.app |
+
+| ✉️ | Email |
+|:--:|-----------|
+| → | omkarkardileatwork@gmail.com |
+
+</div>
+
+---
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+END OF VOLUME 01
+
+See you in the next commit.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
