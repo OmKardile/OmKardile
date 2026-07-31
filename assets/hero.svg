@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#ffc1dd"/>
+<stop offset="100%" stop-color="#ffffff"/>
+</linearGradient>
+<filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#f48fb1" flood-opacity=".4"/></filter>
+</defs>
+<rect width="1200" height="520" fill="url(#g)"/>
+<rect x="80" y="70" width="1040" height="380" rx="42" fill="white" fill-opacity=".35" stroke="white" stroke-opacity=".8" filter="url(#s)"/>
+<text x="600" y="200" text-anchor="middle" font-size="72" font-family="Inter,Arial" font-weight="800">OMKAR KARDILE 🌸</text>
+<text x="600" y="270" text-anchor="middle" font-size="34" font-family="Inter,Arial">Software Engineer</text>
+<text x="600" y="325" text-anchor="middle" font-size="28" font-family="Inter,Arial" fill="#555">Engineering // Design</text>
+<text x="600" y="390" text-anchor="middle" font-size="20" font-family="Inter,Arial" fill="#777">Building software with intention.</text>
+</svg>
