@@ -1,56 +1,129 @@
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff99cc,50:ff66b2,100:ffffff&height=100&section=header&text=Hello!&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff99cc,50:ff66b2,100:ffffff&height=100&section=header&text=!Konnichiwa&fontColor=ffffff"/>
 </p>
 
-<h1 align="center" style="color:#ff66b2">
-      नमस्ते (Namaste), I am       
-  <a href="https://omkardile.framer.site/"> Omkar Kardile </a>
- 🌸
+<h1 align="center">
+  नमस्ते (Namaste), I am
+  <a href="https://omkardile.is-a.dev">omik // whysoserious</a>
+  🌸
 </h1>
 
----
-
-<h2 style="color:#ff66b2"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">  <center>👨🏻‍💻&nbsp;A Little Bit About Me</center></h2>
-
-```yaml
-name: Omkar Pramod Kardile
-located_in: Pune, India
-current_role: Final-Year B.Tech Computer Engineering Student
-education:
-  [
-    "B.Tech in Computer Engineering (2021–2025, Pune)",
-    "Full-Stack Development Internships",
-  ]
-interests:
-  [
-    "Web Development",
-    "App Development",
-    "UI/UX Design",
-    "Software Development",
-  ]
-technical_background:
-  [
-    "Full-Stack Developer (React, Next.js, Node.js)",
-    "Mobile Development with React Native",
-    "UI/UX Design (Figma, Framer, Miro, Notion)",
-    "Experience in VB.NET and Backend Development",
-  ]
-
-currently_learning: ["Advanced React Native", "Cloud Computing Basics", "Preparing for CDAC DAC/DMC","Flutter Stack"]
-2025_goals: ["Crack CDAC Exam", "Build Production-Ready Projects", "Contribute to Open Source"]
-hobbies: ["Designing", "Video Editing", "Exploring Tech Trends", "Anime/Manga","Learn some new Sport  "]
-```
----
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmKardile&layout=compact&title_color=ff66b2&text_color=ff66b2&bg_color=ffffff&hide_border=true" />
+  <b>Software Engineer</b><br>
+  Engineering // Design
 </p>
 
 ---
-[![Gmail Badge](https://img.shields.io/badge/-omkarkardileatwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omkarkardileatwork@gmail.com)](mailto:omkarkardileatwork@gmail.com)
+
+<h2 align="center">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+ A Little Bit About Me
+</h2>
+
+```yaml
+name: Omkar Kardile
+alias: Omik // WhySoSerious
+
+location: Pune, India
+role: Software Engineer
+
+education:
+  [
+    "C-DAC PG-DMC",
+    "B.Tech Computer Engineering",
+  ]
+
+currently:
+  [
+    "Tech // Site",
+    "Volmier",
+    "EchoPulse",
+    "Stario",
+  ]
+
+interests:
+  [
+    "Software Engineering",
+    "Product Design",
+    "Web & Mobile",
+  ]
+
+philosophy:
+  "Engineering // Design • Build with passion."
+```
 
 ---
+
+<h2 align="center">⚒️ Tech Stack</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,mysql,tailwind,js,ts,java,python,git,github,docker,linux,figma,vscode,androidstudio&perline=9"/>
+</p>
+
+---
+
+<h2 align="center">Connect</h2>
+
+<table align="center">
+<tr>
+
+<td align="center" width="180">
+
+### 🌐
+
+**Portfolio**
+
+<a href="https://omkardile.is-a.dev">
+omkardile.is-a.dev
+</a>
+
+</td>
+
+<td align="center" width="180">
+
+### 💻
+
+**GitHub**
+
+<a href="https://github.com/OmKardile">
+@OmKardile
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### ✉️
+
+**Email**
+
+<a href="mailto:omkarkardileatwork@gmail.com">
+Say Hello
+</a>
+
+</td>
+
+<td align="center">
+
+### 🔗
+
+**Links**
+
+<a href="https://mylinks.omik.deno.net">
+Everything Else
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff99cc,50:ff66b2,100:ffffff&height=100&section=footer"/>
 </p>
