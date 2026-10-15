@@ -21,10 +21,21 @@
 
 <div align="center">
 
-### 🍎 Now Listening on Apple Music
+### 🚀 Featured Projects
 
-<!-- Apple Music Now Playing -->
-<img src="https://{{YOUR_APPLE_MUSIC_SUBDOMAIN}}.vercel.app/api/now-playing?theme=tokyonight&cover=true" width="420" alt="Apple Music Now Playing" />
+<a href="https://tech-site-new.vercel.app/">
+  <img src="https://img.shields.io/badge/Tech%2F%2FSite-Technology%20%26%20Ideas-F97316?style=for-the-badge" alt="Tech Site" />
+</a>
+
+<a href="https://servepoint-tsos.onrender.com/">
+  <img src="https://img.shields.io/badge/TSOS-TableSide%20Ordering-2563EB?style=for-the-badge" alt="TableSide Ordering System" />
+</a>
+
+<br/><br/>
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,prisma,tailwind,typescript,git,github,vercel,docker" alt="Tech Stack" />
 
 </div>
 
